@@ -1,6 +1,6 @@
 ## Project Highlight: Ansible Realtime Project on AWS 🛠
 
-# I recently worked on a project using Ansible to automate cloud infrastructure deployment and management on AWS EC2 instances. This hands-on project provided a great opportunity to dive deep into automation and configuration management, leveraging the power of Ansible for real-world scenarios.
+I recently worked on a project using Ansible to automate cloud infrastructure deployment and management on AWS EC2 instances. This hands-on project provided a great opportunity to dive deep into automation and configuration management, leveraging the power of Ansible for real-world scenarios.
 
 🔧 Task 1: Create EC2 Instances using Ansible Loops:
 
