@@ -6,7 +6,7 @@ I recently worked on a project using Ansible to automate cloud infrastructure de
 
 Automated the creation of 3 EC2 instances:
 * 2 Ubuntu Instances
-* 1 CentOS Instance
+* 1 Linux Instance
 Used Ansible Loops to ensure the process was efficient and streamlined.
 Connection was configured as local to the Ansible control node for easy management.
 🔐 Task 2: Passwordless Authentication:
