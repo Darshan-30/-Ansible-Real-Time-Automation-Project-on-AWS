@@ -9,6 +9,7 @@ Automated the creation of 3 EC2 instances:
 * 1 Linux Instance
 Used Ansible Loops to ensure the process was efficient and streamlined.
 Connection was configured as local to the Ansible control node for easy management.
+
 🔐 Task 2: Passwordless Authentication:
 
 Set up passwordless authentication between the Ansible control node and the newly created instances to allow seamless remote execution of commands.
